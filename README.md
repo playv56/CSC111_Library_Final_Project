@@ -6,7 +6,7 @@ Implementation of `Member` and `LibrarySimulator` classes for CSC 111 – Comput
 ---
 
 ## 📌 Group Members
-- **Faisal Gong** – playv56  
+- **Faisal Qanaq** – playv56  
 - **Yousef Alshiqari** – Yousefalsiqari  
 - **Sameer AlSawadi** – Sameeroz12  
 
